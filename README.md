@@ -1,5 +1,8 @@
 ### Hi there 👋 👨‍💻
 
+<a href="https://app.daily.dev/haohuynh1910"><img src="https://api.daily.dev/devcards/639b6821e3e24705aa8ac19b055bb28d.png?r=kv6" width="300" alt="Huỳnh Kín Hào's Dev Card"/></a>
+
+
 <!--
 **haohuynh123-cola/haohuynh123-cola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
