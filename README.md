@@ -30,7 +30,7 @@
 
   - :zap: In my free time, I solve problems on Daily and read tech articles.
 
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hao-kin-huynh-2852b5247/)
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HaoHuynh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hao-kin-huynh-2852b5247/)
   
   ---
 
