@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <h1>
-      hey there
+      Hello my name is Huynh Kin Hao
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
   </div>
@@ -53,6 +53,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Laravel" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haohuynh123-cola&theme=vision-friendly-dark&border_radius=5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haohuynh123-cola&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://app.daily.dev/haohuynh1910"><img src="https://api.daily.dev/devcards/639b6821e3e24705aa8ac19b055bb28d.png?r=kv6" width="300" alt="Huỳnh Kín Hào's Dev Card"/></a>
 
