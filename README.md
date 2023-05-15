@@ -60,8 +60,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haohuynh123-cola&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://app.daily.dev/haohuynh1910"><img src="https://api.daily.dev/devcards/639b6821e3e24705aa8ac19b055bb28d.png?r=kv6" width="300" alt="Huỳnh Kín Hào's Dev Card"/></a>
-
+<a href="https://app.daily.dev/haohuynh1910"><img src="https://api.daily.dev/devcards/639b6821e3e24705aa8ac19b055bb28d.png?r=gps" width="400" alt="Huỳnh Kín Hào's Dev Card"/></a>
 
 
 <!--
